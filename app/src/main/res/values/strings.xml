@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!--This is an ad unit ID for a banner test ad. Replace with your own banner ad unit id.-->
+    <string name="banner_ad_unit_id">ca-app-pub-4817615819142562~5736948620</string>
+</resources>
